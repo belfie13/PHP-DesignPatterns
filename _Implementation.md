@@ -36,8 +36,8 @@ define constants for
 
 #### overriding inheritance
 
-- final prevents overrides
-- parent:: to access overridden implementations
+- `final` prevents overrides
+- `parent::` to access overridden implementations
 
 
 ### implementing interfaces
