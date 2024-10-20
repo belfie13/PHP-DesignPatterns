@@ -37,7 +37,7 @@ define constants for any static values:
 ### extending other classes
 
 - `extends` inherit base functionality
-- methods and properties with same name
+- overloading methods and properties with same name
 
 
 #### overriding inheritance
@@ -64,14 +64,20 @@ define constants for any static values:
 # Algorithms
 
 * int = `interface`
+* imp = `implements`
 * cls = `class`
 * obj = `object`
 * mth = `method`
 * var = `variable`
 * trt = `trait`
+* enu = `enum`
 * ext = `extends`
 * fin = `final`
 * abs = `abstract`
+* ron = `readonly`
+* pub = `public`
+* pro = `protected`
+* pri = `private`
 
 - int {mth} -> cls
 - cls -> trt Logger
